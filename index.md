@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Zhiyun Song's Homepage
+title: Mengjun Liu's Homepage
 profile_picture:
   src: /assets/img/profile-pic.jpeg
   alt: website picture
@@ -8,7 +8,7 @@ profile_picture:
 <table border="0">
 <tr>
 <td width="75%">
-<h1>Zhiyun Song</h1>
+<h1>Mengjun Liu</h1>
 <p><b>Graduate Student</b></p>
 <p><b>School of Biomedical Engineering, Shanghai Jiao Tong University</b></p>
 <p><b>Supervisor: Lichi Zhang</b></p>
