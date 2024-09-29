@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mengjun Liu's Homepage
 baseurl: "" # the subpath of the site
 url: "https://mengjunliu-source.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpeg
+og_image: /assets/img/profile-pic.JPG
 
 header:
   pages:
