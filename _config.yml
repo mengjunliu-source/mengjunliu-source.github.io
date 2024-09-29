@@ -3,7 +3,7 @@
 
 title: Mengjun Liu (刘孟君)
 description: >- # this means to ignore newlines until "baseurl:"
-  Zhiyun Song's Homepage
+  Mengjun Liu's Homepage
 baseurl: "" # the subpath of the site
 url: "https://mengjunliu-source.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpeg
@@ -19,11 +19,11 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: zhiyunsung@gmail.com
-      link: mailto:zhiyunsung@gmail.com
+      value: mliu62685@gmail.com
+      link: mailto:mliu62685@gmail.com
   follow:
     - name: GitHub
-      link: http://github.com/zhiyuns
+      link: http://github.com/mjliu2020
 
 # Build settings
 markdown: kramdown
