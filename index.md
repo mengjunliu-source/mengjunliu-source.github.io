@@ -2,7 +2,7 @@
 layout: home
 title: Mengjun Liu's Homepage
 profile_picture:
-  src: /assets/img/profile-pic.jpeg
+  src: /assets/img/profile-pic.JPG
   alt: website picture
 ---
 <table border="0">
