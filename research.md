@@ -17,7 +17,7 @@ Depression is a serious mental disorder with complex etiology, exhibiting strong
 ![](/assets/img/content/HEF.png)
 
 ### Affinity Learning Based Brain Function Representation for Disease Diagnosis
-- Accepted by [Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024].
+- Accepted by Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.
 
 Resting-state functional magnetic resonance imaging (rsfMRI) serves as a potent means to quantify brain functional connectivity (FC), which holds potential in diagnosing diseases. However, conventional FC measures may fall short in encapsulating the intricate functional dynamics of the brain; for instance, FC computed via Pearson correlation merely captures linear statistical dependencies among signals from different brain regions. In this study, we propose an affinity learning framework for modeling FC, leveraging a pre-training model to discern informative function representation among brain regions. Specifically, we employ randomly sampled patches and encode them to generate region embeddings, which are subsequently utilized by the proposed affinity learning module to deduce function representation between any pair of regions via an affinity encoder and a signal reconstruction decoder. Moreover, we integrate supervision from large language model (LLM) to incorporate prior brain function knowledge. We evaluate the efficacy of our framework across two datasets. The results from downstream brain disease diagnosis tasks underscore the effectiveness and generalizability of the acquired function representation. In summary, our approach furnishes a novel perspective on brain function representation in connectomics.
 ![](/assets/img/content/ALBF.png)
